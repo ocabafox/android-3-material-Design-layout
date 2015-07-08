@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android3MaterialDesign</string>
+    <string name="action_find_location">Find</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="long_text">The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+        The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog, The quick brown fox jump over the lazy dog,
+    </string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
